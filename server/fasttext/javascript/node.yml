@@ -1,0 +1,13 @@
+version: '3.1'
+
+services:
+
+  nodeserver:
+    # replace username/repo:tag with your name and image details
+    image: nodeserver
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+    ports:
+      - 8089:4000

@@ -1,0 +1,13 @@
+__label__greet hello
+__label__greet hey
+__label__greet hi
+__label__greet what's up
+__label__buy buy item
+__label__buy buy this
+__label__buy please buy this item
+__label__buy buy this item please
+__label__buy buy the item
+__label__bye bye bye
+__label__bye bye
+__label__bye see ya
+__label__bye see you again

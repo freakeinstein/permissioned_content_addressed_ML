@@ -1,0 +1,6 @@
+__label__greet hello there
+__label__greet hey there
+__label__buy buy this item now
+__label__buy plz buy this
+__label__bye bye dear
+__label__bye see you later
